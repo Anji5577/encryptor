@@ -25,13 +25,13 @@ Requirements
 
 - Python 3.x
 - `cryptography` library
-- #Install Requirements
+#Install Requirements
   
 brew install cryptography
 ---------------------------------------------------------------------------------------------------------------------------------------------
 #usage
 
-python3 file_encryptor.py encrypt <file_path> <password>
+python3 encryptor.py encrypt <file_path> <password>
 
-python3 file_encryptor.py decrypt <file_path.enc> <password>
+python3 encryptor.py decrypt <file_path.enc> <password>
 
