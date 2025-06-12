@@ -26,6 +26,7 @@ Requirements
 - Python 3.x
 - `cryptography` library
 - #Install Requirements
+  
 brew install cryptography
 ---------------------------------------------------------------------------------------------------------------------------------------------
 #usage
